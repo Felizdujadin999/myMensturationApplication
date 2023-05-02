@@ -1,0 +1,64 @@
+.firstcontainer{
+    background-color: bisque;
+    padding-bottom: 10%;
+}
+#maintext{
+    color: rgb(241, 130, 156);
+    font-size: xxx-large;
+    font-style: italic;
+    font-weight: 1000;
+}
+span{
+    color: red;
+}
+#info{
+    font-size: larger;
+    font-style: italic;
+    font-weight: 800;
+}
+button{
+    background-image: linear-gradient(to right, pink, rgb(240, 255, 240), rgb(255, 255, 255));
+    border-radius: 12%;
+    height: 5vh;
+    width: 5vw;
+    border: 2px solid white;
+}
+button:hover{
+    color: rgb(241, 130, 156);;
+    cursor: pointer;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    transform: scale(1.1);
+}
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+.boxOne{
+    display: grid;
+    background-color: white;
+}
+.boxTwo{
+    display: grid;
+    background-color: white;
+}
+.boxThree{
+    display: grid;
+    background-color: white;
+}
+.boxFour{
+    display: grid;
+    background-color: white;
+}
+.boxFive{
+    display: grid;
+    background-color: white;
+}
+.boxSix{
+    display: grid;
+    background-color: white;
+}

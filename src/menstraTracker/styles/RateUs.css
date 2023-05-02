@@ -1,0 +1,25 @@
+.class {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:  rgb(241, 130, 156);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  span {
+    font-size: 48px;
+    cursor: pointer;
+    color: red;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;  
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
