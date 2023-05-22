@@ -5,6 +5,7 @@ import Cycle from './menstraTracker/components/Cycle';
 import FrontCyclePage from './menstraTracker/components/CycleFrontPage';
 import TrackPeriod from './menstraTracker/components/TrackPage';
 import Rating from './menstraTracker/components/RateUs';
+import PregnancyTest from './menstraTracker/components/PregnancyTest';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path='/FrontPage' element={<FrontCyclePage />} />
           <Route path='/TrackPeriod' element={<TrackPeriod />} />
           <Route path='/RateUs' element={<Rating />} />
+          <Route path='/PregnancyTest' element={<PregnancyTest />} />
         </Routes>
       </Router>
       {/* <header className="App-header">

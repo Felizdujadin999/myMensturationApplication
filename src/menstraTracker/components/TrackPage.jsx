@@ -34,7 +34,7 @@ function TrackPeriod() {
                 <a href="https://semicolon.africa"><p>About Us</p></a>
             </li>
             <li>
-            <a href="https://github.com/Felizdujadin999"><p>Follow us on Github</p></a>
+            <a href="https://github.com/Felizdujadin999"><p>Check us on Github</p></a>
                 
             </li>
             <li>
